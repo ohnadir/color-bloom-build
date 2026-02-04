@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Mail, Phone, Clock } from "lucide-react";
-import alphaLogo from "@/assets/alpha-logo.jpeg";
+import alphaLogo from "@/assets/alpha-logo.png";
 
 const Footer = () => {
   return (

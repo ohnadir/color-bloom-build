@@ -1,6 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import { User, Users } from "lucide-react";
-import alphaLogo from "@/assets/alpha-logo.jpeg";
+import alphaLogo from "@/assets/alpha-logo.png";
 
 const navLinks = [
   { name: "Home", path: "/" },
