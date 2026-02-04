@@ -43,8 +43,13 @@
     /* Custom tokens for ALPHA */
     --navy: 222 47% 11%;
     --navy-light: 222 35% 18%;
-    --amber: 38 92% 50%;
-    --amber-hover: 38 92% 45%;
+    --gold-light: 48 91% 84%;
+    --gold: 47 91% 46%;
+    --gold-gradient: linear-gradient(180deg, #FCEFAE 0%, #DFBB0B 100%);
+    
+    /* Keep amber as alias for compatibility */
+    --amber: 47 91% 46%;
+    --amber-hover: 47 91% 40%;
 
     /* Page hero gradient */
     --hero-gradient: linear-gradient(180deg, hsl(222 47% 11%) 0%, hsl(222 35% 18%) 100%);
