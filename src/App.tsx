@@ -8,6 +8,8 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Membership from "./pages/Membership";
 import Partners from "./pages/Partners";
+import PartnerLogin from "./pages/PartnerLogin";
+import PartnerDashboard from "./pages/PartnerDashboard";
 import Sponsors from "./pages/Sponsors";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsConditions from "./pages/TermsConditions";
@@ -27,6 +29,8 @@ const App = () => (
           <Route path="/contact" element={<Contact />} />
           <Route path="/membership" element={<Membership />} />
           <Route path="/partners" element={<Partners />} />
+          <Route path="/partner-login" element={<PartnerLogin />} />
+          <Route path="/partner-dashboard" element={<PartnerDashboard />} />
           <Route path="/sponsors" element={<Sponsors />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms-conditions" element={<TermsConditions />} />
