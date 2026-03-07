@@ -10,6 +10,8 @@ import Membership from "./pages/Membership";
 import Partners from "./pages/Partners";
 import PartnerLogin from "./pages/PartnerLogin";
 import PartnerDashboard from "./pages/PartnerDashboard";
+import MemberSignIn from "./pages/MemberSignIn";
+import MemberDashboard from "./pages/MemberDashboard";
 import Sponsors from "./pages/Sponsors";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsConditions from "./pages/TermsConditions";
